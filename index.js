@@ -18,7 +18,7 @@ function PickupLocation (address,city){
 
 let samson = new Scooter(2015, "red", "swoosh")
 let allison = new Driver("Allison", "16 years", "2 years")
-let 
+let poshHotel = new PickupLocation ("123 Broadway", "New York City");
 /*describe('objects', function() {
   describe('Scooter constructor', function(){
     it("should create a new scooter with three properties", function(){
